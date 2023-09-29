@@ -1,0 +1,33 @@
+leftnav:
+- identifier: b93825bb-80cf-6851-2bb5-95cfbb2eeb75
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: a4e383b1-76d5-b22b-c4cc-ec56744ec1ce
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 465551c8-c00b-6528-3e4e-00794aecdbbe
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 30
+- identifier: 346ec82e-ae7b-99b5-094e-32e969123848
+  name: Readings
+  pageRef: /pages/readings
+  weight: 40
+- identifier: 75da904a-845e-966c-4b84-a93193f1eced
+  name: Recitations
+  pageRef: /pages/recitations
+  weight: 50
+- identifier: 486104e2-17e4-7f24-9e49-cb69411aa65f
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 60
+- identifier: e04f5ca4-80b2-e445-0dff-c11adaaab959
+  name: Exams
+  pageRef: /pages/exams
+  weight: 70
+- identifier: dcc7a34a-40f4-5d7c-dae7-be3326a76c4c
+  name: Study Materials
+  pageRef: /pages/study-materials
+  weight: 80
