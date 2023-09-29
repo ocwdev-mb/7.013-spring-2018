@@ -1,0 +1,66 @@
+{
+  "term": "Spring",
+  "year": "2018",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Biology",
+      "Biochemistry"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Cell Biology"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Developmental Biology"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Genetics"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Molecular Biology"
+    ]
+  ],
+  "legacy_uid": "3884a12a-6082-d644-063d-b70edca76002",
+  "instructors": {
+    "content": [
+      "f3ae8d8c-6472-0407-29d4-96c2efe5a6a4",
+      "6d3d07fa-9ce9-1b97-95a5-fe447853f08a",
+      "278bc492-0e57-1368-8510-500ffe508e8d"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "79a18906-b43f-d048-5372-4bc6754be30d",
+    "website": "7-013-introductory-biology-spring-2018"
+  },
+  "course_title": "Introductory Biology",
+  "course_description": "The MIT Biology Department core Introductory Biology courses, 7.012, 7.013, 7.014, 7.015, and 7.016 all cover the same core material, which includes the fundamental principles of biochemistry, genetics, molecular biology, and cell biology. The focus of 7.013 is on genomic approaches to human biology, including neuroscience, development, immunology, tissue repair and stem cells, tissue engineering, and infectious and inherited diseases, including cancer.\n",
+  "department_numbers": [
+    "7"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "7.013",
+  "course_image_thumbnail": {
+    "content": "5c5ee644-f6c4-9b1b-4fe3-ea16fe83a69e",
+    "website": "7-013-introductory-biology-spring-2018"
+  },
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Exams with Solutions",
+    "Instructor Insights"
+  ],
+  "site_uid": "4f34791d-afd5-4234-9c27-a9854e29b964",
+  "site_short_id": "7.013-spring-2018",
+  "title": "Course Metadata"
+}
